@@ -1,0 +1,26 @@
+# Global node modules and env files
+**/node_modules/
+**/.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Build output
+**/dist/
+**/build/
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
