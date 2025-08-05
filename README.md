@@ -18,7 +18,7 @@
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/fullstack-portfolio.git
+git clone https://github.com/pramio/my-personal-portfolio.git
 cd fullstack-portfolio
 ```
 
@@ -92,3 +92,23 @@ npm install
 
 - **Toastify not showing notifications?**
   - Ensure `` is placed inside root App and React Toastify CSS is imported.
+ 
+  - ## 📬 Contact
+
+Have questions or suggestions?
+
+**Palash Ch Sarkar**
+📧 [palashchsarkar42@gmail.com]
+
+---
+
+## ⭐️ Show Your Support
+
+If you found this project helpful, feel free to:
+
+* ⭐ Star this repo
+* 🍴 Fork it
+* 🧠 Submit ideas or improvements via issues or pull requests
+
+---
+
