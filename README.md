@@ -92,8 +92,9 @@ npm install
 
 - **Toastify not showing notifications?**
   - Ensure `` is placed inside root App and React Toastify CSS is imported.
- 
-  - ## 📬 Contact
+
+---
+   ## 📬 Contact
 
 Have questions or suggestions?
 
@@ -111,4 +112,5 @@ If you found this project helpful, feel free to:
 * 🧠 Submit ideas or improvements via issues or pull requests
 
 ---
+
 
